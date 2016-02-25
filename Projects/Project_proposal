@@ -1,0 +1,21 @@
+First impression of Proposals to make for final Data science project.
+
+A. A project to capture how the new ZIKA virus has travelled over time, which locations have had the most news articles and searches over the time of the outbreak. How does this compare to previous outbreaks over the same amount of time?  
+
+B. I work for a company called Alibris, an online seller of used books/Textbooks/Music/Movies. Currently the majority of Items we sell on our site are Textbooks. Either sold to students/teachers or sold to other businesses through various b2b channels (Namely Amazon being our biggest partner). I am hoping to come up with some machine learning algorithm to find what are the largest factors contributing to particular books being bought by Students/Teachers and then by various B2b Channels. over a particular period of time. When is the period these sales are the highest? Is there any correlation between publish date and peak sale desire? What states does this assumption hold true?
+
+C. College Basketball predictor of this years ncaa Tournament. Every year there is a memorable story to come out of a small number of teams in the tournament, is there any way we can predict the teams that will have a "story" attached to them?
+
+Voter behavior
+Census Data 
+The fbi ucr data - Violent Crime by area, Zillow makes all public data, is there a relation between rising housing costs and violent crime
+
+Hospitalizations in the sf area: Asthma / How has this gone done over the years, when is it most prevalent over the year. 
+
+Is there a gender pay gap?
+
+A fictional family, lets say both parents were making minimum wage in 95, this is median rent that year. Median size of a home. CAn we predict minimum amount of salary to afford a small home? Can we predict minimum number of jobs needed at minimum wage to afford median rent? 
+
+How has our diet changed? How much sugar have we eaten over time? Is it related to urban population and family size? How has that changed over time and over location?
+
+What did minimum wage buy you in the past 20 years, per square foot. 
