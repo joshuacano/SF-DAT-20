@@ -1,0 +1,10 @@
+Isbn
+Amazon Rank
+Company Rank
+Publisher
+Subject
+Author
+Total Sales for period of time
+Amount of Weeks in top % of sales
+% B2B Sales
+
